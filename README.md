@@ -1,5 +1,6 @@
 Hi I am Pratibha.
 B.Tech student focused on building strong fundamentals in
+
 web development, problem-solving, and AI basics.
 ## Currently Learning
 - Frontend Fundamentals(HTML,CSS,JavaScript)
