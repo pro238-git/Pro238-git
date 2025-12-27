@@ -1,10 +1,10 @@
 Hi I am Pratibha.
-B.Tech student focused on building strong fundamentals in
-Web developement,Problem Solving, and AI basics.
+B.Tech student focused on building strong fundamentals in␠␠
+web development, problem-solving, and AI basics.
 ## Currently Learning
--Frontend Fundamentals(HTML,CSS,JavaScript)
--Git and Github(Version Control & collaboration)
--Problem Solving via C / Python
+-Frontend Fundamentals(HTML,CSS,JavaScript)␠␠
+-Git and Github(Version Control & collaboration)␠␠
+-Problem Solving via C / Python␠␠
 -Fundamentals of AI and ML
  ## Technical Skills
 - HTML, CSS, JavaScript
